@@ -1,0 +1,7 @@
+steps in Git-Hub in command prompt:
+1)git clone https://github.com/muneebashfaq/background-generator.git  //to dwonload the project
+2)git status    //use to check any changes made in project files or not
+3)git add index.html //use to add the new files in project in the git-hub
+4)git commit -m "here you can write message"  //use after add the new files
+5)git push //use after add the new files
+6)git pull //this command is made when a developer made change in the files to dwonload changes that have been made
